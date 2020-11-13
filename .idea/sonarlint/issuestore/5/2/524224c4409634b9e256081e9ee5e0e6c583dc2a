@@ -1,0 +1,8 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÛÖ ¢8Á—„øÛ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(·¦Ÿ‚8Õ­øÛ.
+M
+java:S1128"0Remove this unused import 'sun.rmi.runtime.Log'.(ÛÖ ¢8ñ½„øÛ.
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8Ööø÷Û.
